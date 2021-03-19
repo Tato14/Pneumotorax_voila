@@ -1,5 +1,5 @@
 voila==0.1.21
-pillow==7.0.0
+pillow==8.1.1
 packaging==20.3
 ipywidgets==7.5.1
 pydicom==1.4.2
